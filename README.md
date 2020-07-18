@@ -1,5 +1,5 @@
 # Stock-Market-Time-Series-Analysis-With-RNN-and-LSTM
-![alt text](https://github.com/AhmedaliElgabry/Stock-Market-Time-Series-Analysis-With-RNN-and-LSTM/blob/master/Predicted_compared_with_actual_Values.png)<br/>
+![alt text](https://github.com/AhmedaliElgabry/Stock-Market-Time-Series-Analysis-With-RNN-and-LSTM/blob/master/Predicted_VS_actual_Values.png)<br/>
 <p align="center">
   Model Stock Predicted values Vs Actual Values
 </p>
